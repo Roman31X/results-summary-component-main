@@ -1,0 +1,179 @@
+
+/*Estilo del contenedor principal*/
+section{
+    width: 700px;
+    height: 500px;
+    margin: auto;
+    border-radius: 30px;
+    box-shadow: #E4E2ED 10px 10px 5px;
+    display: flex;
+    justify-content: center;
+  }
+/*Estilo del contenedor 1 con ciculo*/
+.conte1 {
+    
+    width: 350px;
+    height: 500px;
+    border-radius: 30px;
+    background-color: #6040fd;
+    text-align: center;
+  }
+/*Estilo del ciculo*/
+.circulo{
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    margin-top: 50px;
+    border-radius:100px 100px 100px 100px;
+    background-image: -webkit-linear-gradient(top,
+    #4a23ca,#6040fd);
+}
+/*Contenido del circulo*/
+.po1{
+  font-size: 70px;
+  font-family: consolas;
+  color: #fff;
+  text-align: center;
+  padding-top: 30px;
+}
+.po2{
+  font-size: 15px;
+  font-family: consolas;
+  color: #8879ff;
+  padding-left: 10px;
+  text-align: center;
+}
+.text{
+  width: 250px;
+  height: 50px;
+  margin: auto;
+  color: #fff;
+  font-size: 15px;;
+  margin-top: 50px;
+  text-align: center;
+  font-family: Bahnschrift Light;
+}
+.conte2 {
+    width: 350px;
+    height: 485px;
+    border-radius: 30px;
+    background-color: #fff;
+    float: left;
+  }
+  /*EStilo para las letras*/
+  h1{
+    padding-top: 70px;;
+    color: #fff;
+    font-size: 60px;
+    font-family: consolas;
+  }
+  h2{
+    color: #fff;
+    font-size: 20px;;
+    font-family: Bahnschrift Light;
+    margin-top: 30px;
+    
+  }
+  h3{
+    font-size: 20px;
+  }
+  /*Edicion de los complemento del segundo contenedor*/
+  p{
+    color: #303b59;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    font-size: 25px;
+    font-family: consolas;
+    font-weight: bold;
+  }
+  /*Estilos de las diviciones en Summary*/
+ .sub1{
+  border-radius: 10px 10px 10px 10px;
+  color: #df9695;
+  background-color: #fff6f5;
+  width: 250px;
+  height: 45px;
+  margin: auto;
+  font-size: 15px;
+  margin-top: 20px;
+  
+  
+ }
+ 
+ .sub2{
+  border-radius: 10px 10px 10px 10px;
+  color: #ddbc70;
+  background-color: #fffbf2;
+  width: 250px;
+  height: 45px;
+  margin: auto;
+  font-size: 15px;
+  margin-top: 20px;
+  
+ }
+ .sub3{
+  border-radius: 10px 10px 10px 10px;
+  color: #399a83;
+  background-color: #fff6f5;
+  width: 250px;
+  height: 45px;
+  margin: auto;
+  font-size: 15px;
+  margin-top: 20px;
+  
+ }
+ .sub4{
+  border-radius: 10px 10px 10px 10px;
+  color: #454899;
+  background-color: #f2fbfa;
+  width: 250px;
+  height: 45px;
+  margin: auto;
+  font-size: 15px;
+  margin-top: 20px;
+  
+ }
+ .sub5{
+  border-radius: 20px 20px 20px 20px;
+  color: #fff;
+  background-color: #303b59;
+  width: 250px;
+  height: 40px;
+  margin: auto;
+  margin-top: 40px;
+  font-size: 18px;
+  text-align: center;
+  padding-top: 15px;
+  font-family: consolas;
+  font-weight: bold;
+  
+ }
+ /*Edicion de contenido de los div*/
+ /*css de la imagen*/
+ .position{
+  padding-top: 10px;
+  padding-left: 20px;
+  float: left;
+ }
+ /*css de texto*/
+ .text2{
+  float: left;
+  margin-top: 10px;
+  margin-left: 20px;
+  }
+  /*css de numero*/
+  .texposi2{
+    float: left;
+    color: #303b59;
+    margin-top: 10px;
+    margin-left: 60px;
+    font-family: consolas;
+  }
+  .texposi3{
+    float: right;
+    color: #989fa4;
+    margin-top: 10px;
+    margin-right: 10px;
+    font-family: consolas;
+  }
+
